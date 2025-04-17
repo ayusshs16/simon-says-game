@@ -40,3 +40,4 @@ This project is made for learning and fun! Inspired by the original Simon game.
 
 ⭐️ Star this repo if you like it!
 Feel free to fork, contribute, or share your suggestions.
+This Game Only run in Desktop.....
